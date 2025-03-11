@@ -33,7 +33,7 @@ namespace ASPBuku.Controllers
         {
             var judulbuku = new BukuModel()
             {
-                Judul = "Belajar ASP.NET"
+                Judul = "Utamakan membaca buku"
             };
             return View(judulbuku);
         }
